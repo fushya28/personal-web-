@@ -1,0 +1,14 @@
+Local/Vscode:
+git init
+git add .
+git commit -m "message nya apa"
+
+
+Cloud/Github :
+create repo -> nama doang
+copy bagian "git add remote..."
+
+
+Local/Vscode:
+paste "git add remote..."
+git push origin master/main
